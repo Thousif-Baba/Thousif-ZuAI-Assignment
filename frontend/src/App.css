@@ -1,0 +1,23 @@
+.App {
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #f9f9f9;
+}
+
+.app-header {
+    background-color: #007bff;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.app-main {
+    padding: 20px;
+}
+
+.app-footer {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}

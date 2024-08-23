@@ -1,0 +1,18 @@
+.post-detail {
+    margin: 20px;
+}
+
+.post-detail-title {
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+.post-detail-content {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.loading {
+    font-size: 18px;
+    color: #666;
+}
